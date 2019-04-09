@@ -1,6 +1,6 @@
-///////////////////////
+///////////////////////////
 // STEPS FOR RANDOM DICE #1
-//////////////////////
+///////////////////////////
 
 //create variable to store "random number" to use later
 var randomNumber1 = Math.floor((Math.random() * 6) + 1); //round random number from 1-6
